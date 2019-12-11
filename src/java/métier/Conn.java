@@ -29,7 +29,7 @@ public class Conn{
     try {
         //omg i wasted 3 hours serching for this one ,Class.forName loads mysql Driver with out it the connection to MySQL woudln't work 
         Class.forName("com.mysql.jdbc.Driver"); 
-    this.conn =   DriverManager.getConnection("jdbc:mysql://localhost:3306/db_gestion?zeroDateTimeBehavior=convertToNull","root","07219567");
+    this.conn =   DriverManager.getConnection("jdbc:mysql://localhost:3306/db_gestion?zeroDateTimeBehavior=convertToNull","yourid","yourpw");
     
     System.out.println("Successfull Connection To Your DataBase : \n");
     System.out.println("Current database is : \"db_gestion\" => 'etudiant' .");
