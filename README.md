@@ -11,5 +11,5 @@ Ce projet permet d'effectuer les operation CRUD en utilisant JavaEE
  
  les bibliothèques utilisées sont :
  
- => mysql-connector-java-5.1.48-bin.jar
- => jstl-1.2.jar
+ * mysql-connector-java-5.1.48-bin.jar
+ * jstl-1.2.jar
