@@ -1,4 +1,4 @@
-# JavaEE
+# JavaEE WebApp
 This project was developed using NetBeans IDE 8.2 
 
 Ce projet permet d'effectuer les operation CRUD en utilisant JavaEE 
